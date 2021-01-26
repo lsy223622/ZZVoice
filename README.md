@@ -1,7 +1,5 @@
 # 常见问题
 
----
-
 ## 如何在ZZ学子说语音留言墙上传音频？
 
 &emsp;&emsp;在语音留言查看页面的网址后面加上  `upload.html`
@@ -10,7 +8,6 @@
 
 &emsp;&emsp;请使用电脑或手机浏览器上传 **10 MB** 以内的 **MP3** 格式文件，不要使用微信 QQ 等自带浏览器
 
----
 ## 怎样的输出结果说明上传成功？
 
 &emsp;&emsp;点击 **选择文件** 再点击 **上传** 后，如果上传成功，网页将会显示如下信息：
@@ -41,12 +38,10 @@
 >}
 >```
 
----
 ## 微信扫码访问提示非标准端口怎么办？
 
 &emsp;&emsp;不要在意，继续访问就好了
 
----
 ## 如何获得其他附加服务？
 
 ### 可以联系 QQ **2413282135** 获得以下服务：
@@ -62,7 +57,6 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
 
----
 
 ## Release v3.2 （ modern + legacy ）
 
@@ -75,7 +69,6 @@
 
 明天是第二次年初义卖，希望 3.2 版本能伴随语音留言明信片再次卖出一点钱qwq
 
----
 
 ## Release v3.1 （ modern + legacy ）
 
@@ -87,7 +80,6 @@ modern + legacy
 - 新增 **legacyswitch** 功能，可一次性切换 modern 版本为 legacy 版本
 - 新增 `legacyswitch.php` 使用递归复制算法将 modern 文件替换为 legacy 文件
 
----
 
 ## Release v3.0
 
@@ -100,7 +92,6 @@ modern + legacy
 
 **2021 年，用户体验再进化！**
 
----
 
 ## Release v2.0
 
@@ -110,7 +101,6 @@ modern + legacy
 - ZZ 学子说语音留言明信片于 2020 年初义卖首发
 - 然后卖的很惨 *（历史事件）*
 
----
 
 ## Release v1.3
 
@@ -123,7 +113,6 @@ modern + legacy
 - 大概是当时做 Beta 的时候和几个那边的开发说起过
 - md 确实没有什么办法
 
----
 
 ## Beta v1.2
 
@@ -134,7 +123,6 @@ modern + legacy
 - 光阑有关内容已被移除
 - 界面大幅度修改
 
----
 
 ## Beta v1.1
 
@@ -143,7 +131,6 @@ modern + legacy
 1.1 第一次修改
 - 界面小改
 
----
 
 ## Beta v1.0
 
@@ -152,6 +139,8 @@ modern + legacy
 1.0 最初版本
 
 - lsy223622 于 2019.10 首次提出语音留言明信片设想并成功实现
+
+---
 
 # 关于
 
