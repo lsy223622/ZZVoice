@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
 
-ZZ学子说语音留言墙
+ZZ 学子说语音留言墙
 
 由 *lsy223622* 创作于2019.10
 
