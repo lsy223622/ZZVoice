@@ -8,8 +8,6 @@
 
 # 常见问题
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
-
 ## 如何在ZZ学子说语音留言墙上传音频？
 
 &emsp;&emsp;在语音留言查看页面的网址后面加上  `upload.html`
@@ -64,8 +62,6 @@
 ---
 
 # 更新日志
-
-[![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
 
 ## Release v3.2 （ modern + legacy ）
 
@@ -152,8 +148,6 @@ modern + legacy
 ---
 
 # 关于
-
-[![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
 
 ZZ 学子说语音留言墙
 
