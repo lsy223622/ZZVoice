@@ -4,6 +4,8 @@
 
 ## 4.0更新预告：全新界面！
 
+---
+
 # 常见问题
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![GitHub](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases)
