@@ -2,6 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-ZZVoice-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice) [![Releases](https://img.shields.io/badge/-Releases-lightgrey?logo=github)](https://github.com/lsy223622/ZZVoice/releases) [![JSDelivr](https://data.jsdelivr.com/v1/package/gh/lsy223622/ZZVoice/badge?style=rounded)](https://www.jsdelivr.com/package/gh/lsy223622/ZZVoice)
 
+## 2021/10/06状态更新：服务已恢复上线
+
 ## 4.0更新预告：全新界面！
 
 ---
